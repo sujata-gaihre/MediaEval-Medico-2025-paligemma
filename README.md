@@ -10,7 +10,7 @@ This repository contains notebooks for submissions to the **MediaEval-Medico-202
 
 This notebook fine-tunes **`google/paligemma-3b-pt-224`** on the **Kvasir-VQA-x1** dataset using `ms-swift` for the Gastrointestinal (GI) Image Visual Question Answering (VQA) task.
 
-* **Notebook:** [sujatagaihre-medico2025-subtask1-teamnepal.ipynb](https://github.com/sujata-gaihre/MediaEval-Medico-2025-paligemma/blob/master/sujatagaihre-medico2025-subtask1-teamnepal.ipynb)
+* **Notebook:** [Task_1_Sample_Notebook_mediaEval.ipynb](https://github.com/sujata-gaihre/MediaEval-Medico-2025-paligemma/blob/master/Task_1_Sample_Notebook_mediaEval.ipynb)
 * **Description:** The notebook covers data preparation, a T4-friendly training configuration (QLoRA + LoRA), validation, and inference.
 
 ---
